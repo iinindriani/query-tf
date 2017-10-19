@@ -1,2 +1,1 @@
-# query-tf
-tugas query-tf-idf
+#legal retrieval
